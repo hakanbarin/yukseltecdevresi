@@ -1,1 +1,1 @@
-# yukseltecdevresi
+Projenin amacı, TDA2030 entegresi ve önyükselteç devresi kullanarak ses sinyalini güçlendirerek çıkıştaki hoparlöre iletmek.  Maksimum 18 W gücünde tek kanallı bir entegre olduğundan bir hoparlör üzerinde çalıştırılmış ve başarılı bir şekilde çalıştığı görülmüştür. Devre üzerinde bas, tiz ve ses seviyesi ayarları vardır. İstenilen şekilde potansiyometre üzerinden bu değişkenleri değiştirerek istediğimiz seviyede ses elde edebilmekteyiz.
