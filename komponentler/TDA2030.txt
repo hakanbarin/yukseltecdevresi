@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\barin\Desktop\TDA2030 AMFÝ\TDA2030.PcbDoc
+Date         : 11/22/2023
+Time         : 11:06:53 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 58
+    Connections routed, 58
+    Connections remaining, 0
+count : 4
